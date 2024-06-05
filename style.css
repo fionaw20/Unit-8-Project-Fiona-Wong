@@ -1,0 +1,20 @@
+/* Polka Dot Background Found at Link Below
+https://codepen.io/poonam-adlakha/pen/PoRJeKM */
+
+html {
+    background: #ffa3a3;
+    background-size: 100px 100px;
+    background-position: 0 0, 25px 25px, 50px 50px;
+    text-align: center;
+}
+
+h1, h2{
+  background-color: white;
+  color: #000000;
+  width: 400px;
+  margin: auto;
+  margin-bottom: 5px;
+}
+#myCanvas{
+  border: 5px solid #000000;
+}
